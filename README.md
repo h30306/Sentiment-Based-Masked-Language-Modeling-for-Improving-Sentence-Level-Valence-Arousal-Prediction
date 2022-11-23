@@ -16,7 +16,7 @@ This repository contains the code for replicating results from
 * Build a new virtual environment 
 * Install python3 requirements: `pip install -r requirements.txt`
 * Run `cd ./Models` to the model folder
-* Choose the parameter you want to run in the sh files
+* Choose the parameter you want to run in the sh files to train different models
 * Train your own models
 
 ## Training Insturctions
