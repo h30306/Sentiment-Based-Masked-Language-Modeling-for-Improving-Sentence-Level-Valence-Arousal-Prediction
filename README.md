@@ -1,4 +1,4 @@
-# Sentiment-Based-Masked-Language-Modeling-for-Improving-Sentence-Level-Valence-Arousal-Prediction
+# Sentiment-based masked language modeling for improving sentence-level valence–arousal prediction
 Sentiment word masking bert for valence and arousal
 
 ## Introduction
