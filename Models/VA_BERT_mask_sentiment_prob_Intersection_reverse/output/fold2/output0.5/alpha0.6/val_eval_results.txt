@@ -1,0 +1,3 @@
+best_loss = 1.0373365879058838
+eval_loss = 1.4195148944854736
+perplexity = tensor(4.1351)
