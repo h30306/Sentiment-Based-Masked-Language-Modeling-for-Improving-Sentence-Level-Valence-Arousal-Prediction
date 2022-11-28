@@ -4,7 +4,7 @@ Sentiment word masking bert for valence and arousal
 ## Introduction
 This repository contains the code for replicating results from
 
-* [Sentiment-Based-Masked-Language-Modeling-for-Improving-Sentence-Level-Valence-Arousal-Prediction](https://link.springer.com/article/10.1007/s10489-022-03384-9)
+* [Sentiment-based masked language modeling for improving sentence-level valence–arousal prediction](https://link.springer.com/article/10.1007/s10489-022-03384-9)
 * Jheng-Long Wu; Wei-Yi Chung
 * Applied Intelligence, 2022
 
